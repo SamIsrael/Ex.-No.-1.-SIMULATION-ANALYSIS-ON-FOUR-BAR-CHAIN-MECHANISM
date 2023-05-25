@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/SamIsrael/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118707037/8a2080c6-231d-451f-b58f-0f07c1cf0a57)
 
 
-### Name:
-### Register Number: 
+### Name: Sam Israel D
+### Register Number: 212222230128
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
